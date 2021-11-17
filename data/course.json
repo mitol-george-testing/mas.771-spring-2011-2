@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Health and Medicine",
+      "Mental Health"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b2acb90b-48a3-6a34-158c-7fcb12dab8d6",
+      "614ac8e2-e615-8f3d-e7a1-5cec39bf770e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Autism Theory and Technology",
+  "course_description": "This course illuminates current theories about autism together with challenges faced by people on the autism spectrum. Theories in communicating, interacting socially, managing cognitive and affective overload, and achieving independent lifestyles are covered. In parallel, the course presents state-of-the-art technologies being developed for helping improve both theoretical understanding and practical outcomes. Participants are expected to meet and interact with people on the autism spectrum. Weekly reading, discussion, and a term project are required.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.771",
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
